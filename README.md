@@ -12,9 +12,9 @@ To get started with connecting the robots, you need to connect them via "sta" (W
 
 Connect your Robomaster EP drones to the Wi-Fi network using the provided helper script:
 
-### ```python
-### Example usage of the connection script
-### python 05_conn_sta_helper.py
+```python
+Example usage of the connection script
+python 05_conn_sta_helper.py
 
 ## Step 2: Create a Map of the Area
 
